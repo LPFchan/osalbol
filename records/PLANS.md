@@ -1,5 +1,4 @@
 # 오살볼 Plans
 
-- Ship the first page with entries gathered from the operator's own archives
-  and suggestions.
-- Serve it from Cloudflare (Workers static assets) at `osalbol.com`.
+- Deploy with `wrangler deploy` once the `osalbol.com` zone turns active.
+- Keep adding entries as they come in through issues and suggestions.

@@ -1,0 +1,10 @@
+{
+  "name": "osalbol",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./public" },
+  "workers_dev": false,
+  "routes": [
+    { "pattern": "osalbol.com", "custom_domain": true },
+    { "pattern": "www.osalbol.com", "custom_domain": true }
+  ]
+}

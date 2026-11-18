@@ -20,11 +20,11 @@ wonderful things turn up in your footsteps.
 ## Invariants
 
 - One static page. No accounts, no tracking, no backend.
-- Every entry names when it happened and links a public source.
+- Every entry names when it happened, and links a public source when one exists.
 - Only public events. Never quote private conversations or name private people.
 - Korean first.
 
 ## Non-goals
 
 - A news feed or a complete archive.
-- Negative "never thought this would happen" events (오살볼(negative)).
+- A pile of sad news. Negative entries (오살볼(negative)) are rare and get a gray label instead of the accent color.
