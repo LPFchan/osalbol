@@ -23,6 +23,7 @@ wonderful things turn up in your footsteps.
 - Every entry names when it happened, and links a public source when one exists.
 - Every entry records when it was added to the page (`data-added` on its `<li>`, KST). The five most recently added carry a NEW tag.
 - Every entry carries one or more categories (`data-tags` on its `<li>`, space-separated) from 테크, 음악, 영상, 게임, 서브컬쳐, 사회. A sticky chip bar filters the list by category.
+- The wait label (`<span class="wait">`) is a bare `N년 만`, counted from when people started waiting for the thing. Do not prefix it with what was counted from (`발표 13년 만`, `입사 20년 만`); add a prefix only when the bare number would mislead, and say why in the commit.
 - Only public events. Never quote private conversations or name private people.
 - Korean first.
 
