@@ -21,6 +21,7 @@ wonderful things turn up in your footsteps.
 
 - One static page. No accounts, no tracking, no backend.
 - Every entry names when it happened, and links a public source when one exists.
+- Every entry records when it was added to the page (`data-added` on its `<li>`, KST). The five most recently added carry a NEW tag.
 - Only public events. Never quote private conversations or name private people.
 - Korean first.
 
