@@ -10,7 +10,7 @@
 
 ## Current State Summary
 
-The first page is built: one static `public/index.html` with 53 entries,
+The first page is built: one static `public/index.html` with 54 entries,
 newest first, and a typewriter title that expands 오살볼 into
 오래 살고 볼 일이다. Each entry carries its added time, and a small script
 tags the five most recently added as NEW. A sticky chip bar above the
