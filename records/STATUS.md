@@ -10,7 +10,7 @@
 
 ## Current State Summary
 
-The first page is built: one static `public/index.html` with 35 entries,
+The first page is built: one static `public/index.html` with 39 entries,
 newest first, and a typewriter title that expands 오살볼 into
 오래 살고 볼 일이다. `wrangler.jsonc` serves `public/` as Workers static
 assets on `osalbol.com` and `www.osalbol.com`. The Cloudflare zone is still
