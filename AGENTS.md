@@ -66,3 +66,9 @@ Repo-agnostic skills (`sharpen-the-tip`, `prototype-mode`, `housekeeping`, `proa
 ## Repo-Specific Rules
 
 Everything above the `template-managed:end` marker is synced verbatim from repo-template by `scripts/sync-template.sh` on the template side. Put rules that belong to this repo only below this line; the sync never touches content after the marker.
+
+## osalbol Skills
+
+| Trigger | Skill |
+| --- | --- |
+| When adding or editing an entry on osalbol.com | `skills/add-entry/SKILL.md` |
